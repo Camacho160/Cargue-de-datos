@@ -4,5 +4,5 @@ de cargar datos masivos diarios
 
 ## Programa: Parametros.cbl
 ### Objetivo.
-Programa Batch enfocado en la administración de parámetros mediante operaciones CRUD en un archivo indexado con acceso dinámico por clave única y alterna.
+Programa Batch enfocado en la administración de parámetros mediante operaciones CRUD en un archivo indexado con acceso dinámico por clave única o alterna.
 #### Diagrama de flujo
